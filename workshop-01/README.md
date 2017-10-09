@@ -26,13 +26,6 @@ We will answer questions, such as "_what is a model?_" and "_why linear in parti
 Then, we will go through some applications, starting with a _Simple Beta Hedging_ algorithm, usually used in Finance. 
 Finally, we will get our hands dirty with implementing this algorithm in vanilla `Python` and then using off-shelf Machine Learning frameworks, such as `scikit-learn` and `TensorFlow`.
 
-* Introduction to ICDSS
-* Introduction to Data Science
-* What is a (Linear) Model
-* Why Linear?!
-* How this can be applied? (example from finance)
-* How to implement this
-
 ## Agenda
 
 ### Theory
