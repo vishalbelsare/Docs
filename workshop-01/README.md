@@ -1,8 +1,5 @@
 # Workshop #1
 
-## Table of Content
-<!-- TOC depthFrom:2 -->
-
 - [Prerequisites](#prerequisites)
 - [Overview](#overview)
 - [Agenda](#agenda)
@@ -11,8 +8,6 @@
     - [Codelab](#codelab)
 - [Resources](#resources)
 - [License](#license)
-
-<!-- /TOC -->
 
 ## Prerequisites
 
@@ -54,14 +49,14 @@ Finally, we will get our hands dirty with implementing this algorithm in vanilla
 * **The Linear Model II**, _Caltech CS 156 Machine Learning_ [[PDF]](http://work.caltech.edu/slides/slides09.pdf)
 * **Linear Regression**, _Oxford Machine Learning_ [[PDF]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/lecture2.pdf)
 
-### Tutorial
+### Tutorials
 
-* **Linear Regression**, _Quantopian_ [[ipynb]](https://github.com/quantopian/research_public/blob/master/notebooks/lectures/Linear_Regression/notebook.ipynb)
-* **Multiple Linear Regression**, _Quantopian_ [[ipynb]](https://github.com/quantopian/research_public/blob/master/notebooks/lectures/Multiple_Linear_Regression/notebook.ipynb)
-
-### Projects
-
-
+* **Python NumPy Tutorial**, _Stanford CS231n_ [[tutorial]](http://cs231n.github.io/python-numpy-tutorial/)
+* **Linear Regression Example**, _scikit-learn_ [[code]](http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#)
+* **Linear Regression in TensorFlow**, _aymericdamien_ [[ipynb]](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/2_basic_classifiers/linear_regression.ipynb)
+* **Linear Regression**, _Quantopian_ [[ipynb]](https://nbviewer.jupyter.org/github/quantopian/research_public/blob/master/notebooks/lectures/Linear_Regression/notebook.ipynb)
+* **Multiple Linear Regression**, _Quantopian_ [[ipynb]](https://nbviewer.jupyter.org/github/quantopian/research_public/blob/master/notebooks/lectures/Multiple_Linear_Regression/notebook.ipynb)
+* **GradientDescentExample**, _mattnedrich_ [[Github]](https://github.com/mattnedrich/GradientDescentExample)
 
 ### Videos
 

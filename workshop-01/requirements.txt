@@ -1,4 +1,7 @@
 pytest
 numpy
 matplotlib
+seaborn
+sklearn
+tensorflow
 jupyter
