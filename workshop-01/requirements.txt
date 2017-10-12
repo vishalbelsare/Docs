@@ -2,6 +2,7 @@ pytest
 numpy
 matplotlib
 seaborn
+pandas
 sklearn
 tensorflow
 jupyter
