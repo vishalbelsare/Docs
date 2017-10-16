@@ -1,10 +1,8 @@
-# Workshops 2017
+# Machine Learning Workshop Series 2017-2018
 
 Talent Development 2017-2018 Program.
 
-## Workshops
-
-> General Structure:
+## Overview
 
 * Theory
 * Application
@@ -12,36 +10,32 @@ Talent Development 2017-2018 Program.
 
 ## Autumn Term
 
-> Beginners & Intermediates Level
+Beginners & Intermediates Level
 
 ### Workshop #1
 
-> mid October
+`Thursday 19 October 2017`
 
-* [Theory] Linear Models
-* [Application] Finance - Simple Beta Hedging
-* [Codelab] Vanilla Python
+* **[Theory]** Linear Models
+* **[Application]** Finance - Simple Beta Hedging
 
 ### Workshop #2
 
-> first week of November
+`first week of November`
 
-* [Theory] Kernel Trick
-* [Application] Coputer Vision - MNIST
-* [Codelab] intro to scientific python
+* **[Theory]** Non-Linear Models
+* **[Application]** Security - Credit Card Fraud Detection
 
 ### Workshop #3
 
-> mid November
+`mid November`
 
-* [Theory] Model Selection
-* [Application] TBC
-* [Codelab] scikit-learn Pipeline & intro to Kaggle
+* **[Theory]** Model Selection
+* **[Application]** Healthcare - Breast Cancer Diagnostic
 
 ### Workshop #4
 
-> first week of December
+`first week of December`
 
-* [Theory] Neural Networks
-* [Application] ImageNet - state-of-the-art
-* [Codelab] neural network from scratch & tensorflow equivalent
+* **[Theory]** Neural Networks
+* **[Application]** Computer Vision - Digits Recognition
