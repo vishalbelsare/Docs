@@ -1,5 +1,6 @@
 ENV=".env"
 PYTHON="python3" # python3 --> 3.6 | python2 --> 2.7
+PIP="pip3" # pip3 --> python3 | pip2 --> python2
 
 clean:
 	find . -name "*.pyc" -type f -delete
@@ -13,6 +14,7 @@ remove:
 
 setup:
 	make remove ;
+	$(PIP) install virtualenv ;
 	virtualenv -p $(PYTHON) $(ENV) ;
 	source "./$(ENV)/bin/activate" && \
 	pip install -r requirements.txt && \
