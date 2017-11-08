@@ -12,30 +12,34 @@ Talent Development 2017-2018 Program.
 
 Beginners & Intermediates Level
 
-### Workshop #1
+### Linear Models
 
 `Thursday 19 October 2017`
 
-* **[Theory]** Linear Models
-* **[Application]** Finance - Simple Beta Hedging
+* Linear Regression
+* Stochastic Gradient Descent (SGD)
+* Finance: Simple Beta Hedging
 
-### Workshop #2
+### Neural Networks
 
-`first week of November`
+`Thursday 16 November 2017`
 
-* **[Theory]** Non-Linear Models
-* **[Application]** Security - Credit Card Fraud Detection
+* Computational Graphs
+* Backpropagation Learning Algorithm
+* Computer Vision: Digits Recognition
 
-### Workshop #3
+# Scientific Computing Workshop Series 2017-2018
 
-`mid November`
+## Autumn Term
 
-* **[Theory]** Model Selection
-* **[Application]** Healthcare - Breast Cancer Diagnostic
+Beginners Level
 
-### Workshop #4
+### Scientific Python
 
-`first week of December`
+`Thursday 02 November 2017`
 
-* **[Theory]** Neural Networks
-* **[Application]** Computer Vision - Digits Recognition
+* `NumPy`
+* `Matplotlib` & `Seaborn`
+* `SciPy`
+* Convex Optimization
+* Numerical Integration
