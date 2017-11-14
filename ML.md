@@ -22,7 +22,7 @@ Beginners & Intermediates Level
 
 ### [Neural Networks](https://github.com/Imperial-College-Data-Science-Society/Neural-Networks)
 
-`Thursday 16 November 2017`
+`Thursday 30 November 2017`
 
 * Computational Graphs
 * Backpropagation Learning Algorithm
